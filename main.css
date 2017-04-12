@@ -1,0 +1,100 @@
+#stats {
+	z-index: 5;
+  position: fixed;
+  left:5%;
+  text-align: center;
+  -webkit-animation: fade-in 2s 1.5s ease both;
+          animation: fade-in 2s 1.5s ease both;
+	color: aliceblue;
+  margin-bottom: 0.5em;
+  font-size: 1em;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.10em;
+	font-family: "POLYA";
+}
+
+.workday{
+	top :27%
+}
+
+#stats h1{
+	font-size: 4em;
+}
+
+#news{
+  z-index: 5;
+  position: fixed;
+  margin-left: 77%;
+  right: 5.76%;
+  top: 30%;
+  text-align: -webkit-left;
+  -webkit-animation: fade-in 2s 1.5s ease both;
+          animation: fade-in 2s 1.5s ease both;
+  color: aliceblue;
+  margin-bottom: 0.5em;
+  font-size: 1em;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.10em;
+  font-family: "POLYA";
+}
+
+#news a{
+  color: aliceblue;
+  text-decoration: none;
+}
+
+#news h3{
+  text-align: center;
+}
+
+#news h4{
+	text-align: right;
+}
+
+
+#dolist {
+  top:55%;
+	z-index: 5;
+  position: fixed;
+  left:5%;
+  text-align: left;
+  -webkit-animation: fade-in 2s 1.5s ease both;
+          animation: fade-in 2s 1.5s ease both;
+	color: aliceblue;
+  margin-bottom: 0.5em;
+  font-size: 1em;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.10em;
+  font-family: "POLYA";
+}
+
+#dolist input {
+  padding: 3px;
+  font-size: 1em;
+  background: transparent;
+  border: none;
+  color: white;
+}
+
+#dolist button {
+  padding: 3px;
+  font-size: 1em;
+  margin: 10px;
+background: transparent;
+  color: #FFF;
+  border: 2px solid #0d0f0d;
+  border-radius: 200px 200px 200px 0px:
+}
+
+#dolist button:hover {
+ background: transparent;
+  border: 2px solid #FFF;
+  cursor: pointer;
+}
+
+#dolist li{
+	padding: 2px;
+}
